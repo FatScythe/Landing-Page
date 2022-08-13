@@ -1,6 +1,6 @@
 ## Scythe Website
 #### Link to the live website:
->[Website](https://devscythewebsite.netlify.app/ "LandingPage live site")
+>[Website](https://devscythewebsite.vercel.app/ "LandingPage live site")
 ___
 
 #### Description 
@@ -15,7 +15,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 #### Tech Used:
- >React, bootstrap, git, github, Netlify.
+ >React, bootstrap, git, github, Vercel.
 ___
 
 > #### Things i have learnt

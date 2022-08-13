@@ -12,12 +12,12 @@ const Contact = () => {
                 <p className="fs-3 mb-3 h2">FIND US ON SOCIAL MEDIA</p>
 
                 <div className="social">
-                    <a href="#"><img src={fb} alt="facebook"></img></a>
-                    <a href="#"><img src={insta} alt="instagram"></img></a>
-                    <a href="#"><img src={twitter} alt="twitter"></img></a>
-                    <a href="#"><img src={whatsapp} alt="whatsapp"></img></a>
-                    <a href="#"><img src={linkedin} alt="linkedIn"></img></a>
-                    <a href="#"><img src={sc} alt="snapchat"></img></a>
+                    <img src={fb} alt="facebook"></img>
+                    <img src={insta} alt="instagram"></img>
+                    <img src={twitter} alt="twitter"></img>
+                    <img src={whatsapp} alt="whatsapp"></img>
+                    <img src={linkedin} alt="linkedIn"></img>
+                    <img src={sc} alt="snapchat"></img>
                 </div>
             </div>
            
